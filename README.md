@@ -15,4 +15,5 @@ A game will consist of a sequence of the following actions:
     a. one of the players wins the game, i.e. this player gets three of his/her marks in a row (vertically, horizontally, or diagonally).
     b. all the positions on the board are occupied. In this case, the game ends in a draw.
  
-![Assi8](https://user-images.githubusercontent.com/31307659/145340856-102a50b8-7e77-4f16-a0a7-64b7189b4204.gif)
+![Assigment8](https://user-images.githubusercontent.com/31307659/145342050-df16aca3-97be-4ff8-ad4f-6c0b91c288c6.gif)
+
