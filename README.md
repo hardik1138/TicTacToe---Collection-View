@@ -1,6 +1,6 @@
 # TicTacToe---Collection-View
 Game Rules
-  A game will consist of a sequence of the following actions:
+A game will consist of a sequence of the following actions:
    1. Initially, the "X" marks will play first (we call him/her player 1) and the player that gets to play with the "O" marks will play second (we call him/her player 2).
 
    2. Player 1 and 2 take turns making moves. A move (mark row column) should satisfy the following constraints:
